@@ -18,12 +18,12 @@ It automates the process of building, testing, analyzing, storing, and deploying
 
 🏗️ Architecture Diagram
 
-Pipeline Flow:
+**Pipeline Flow:
 
 GitHub → Jenkins → Maven → SonarQube → Nexus → Tomcat (Dev → Test → Prod)
 
 
-📋 Workflow
+**📋 Workflow
 
 Checkout Code – Jenkins pulls source code from GitHub
 
