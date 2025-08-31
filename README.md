@@ -39,4 +39,7 @@ Manual Approval – Promotes build to Test → Prod environments
 
 Rollback Support – Previous artifacts can be redeployed from Nexus if deployment fails
 
+📄 [Detailed Project Report (PDF)](docs/1) JENKINS CI CD PROJECT.pdf)
+
+
 
