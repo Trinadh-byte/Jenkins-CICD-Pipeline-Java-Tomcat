@@ -18,5 +18,7 @@
 
 ## 5. Create Jenkins Pipeline
 - Add Jenkinsfile.
+
+- Please refer the 1) Jenkins CI CD Project.pdf file for full step by step execution steps with screenshots
 - Run pipeline and verify.
 
